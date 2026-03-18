@@ -1,83 +1,91 @@
-# Hi, I'm Aiswarya K Binu 👋
+<!-- Greeting Section -->
+<h1 align="center">Hi, I'm Aiswarya K Binu 👋</h1>
+<p align="center">
+  <em>Full Stack Developer & AI Enthusiast | Aspiring Software Engineer from Kerala, India</em>
+</p>
 
-Welcome to my GitHub profile!
+---
 
-## 💡 About Me
+<!-- Quick Contact & Links -->
+<p align="center">
+  🌍 <b>Kerala, India</b> | 
+  <a href="mailto:aiswaryabinush@gmail.com">Email</a> | 
+  <a href="https://ayshwarya.vercel.app/">Portfolio</a> | 
+  <a href="https://github.com/Aiswaryabinu">GitHub</a>
+</p>
 
-I am a Computer Science undergraduate aspiring for internship or entry-level roles in software development, AI, or full-stack engineering. I have practical experience in real-world projects, hackathons, ERP systems, and applied research initiatives.
+---
 
-- 📍 Kerala, India
-- 📧 Email: aiswaryabinush@gmail.com
-- 🌐 Portfolio: [ayshwarya.vercel.app](https://ayshwarya.vercel.app/)
-- 💻 GitHub: [github.com/Aiswaryabinu](https://github.com/Aiswaryabinu)
+<!-- About Me Section -->
+### 👩‍💻 About Me
 
-## 🎓 Education
+- 🎓 Final Year BTech Computer Science at SOE, CUSAT
+- 💡 Real-world project experience (Hackathons, ERP, applied research)
+- 🚀 Passionate about **Software Development**, **AI**, and **Full-Stack Engineering**
+- 🤝 Member of TinkerHub Kochi, GDSC, IGBC Club, and Talrop Squad
 
-- **BTech Computer Science**, School of Engineering, CUSAT (Present, Kochi)
-- **Higher Secondary (12th)**, GHSS, Kadayiruppu (2020–2022)
-- **Secondary (10th)**, Cooperative Public School, Valakom (2019–2020)
+---
 
-## 🏆 Experience
-
-- **Intern, Wrench Solutions** (AI Construction Monitoring)  
-  _Apr–May 2024, CSEZ, Kochi_  
-  - Developed ConstructVision, a construction progress estimation system using a pretrained YOLOv5 model to analyze site images and monitor wall construction stages.
-
-- **Intern, Unos** (Hospital ERP development)  
-  _Jun 2025–Jan 2026_  
-  - Developed ERP modules for hospital workflow management and automation using the Frappe Framework.
-  - Supported AI-driven healthcare initiatives for operational efficiency and intelligent decision support.
-
-## 🚀 Projects
-
-- **EchoNews** _(Voice-controlled AI news app, HackGen AI – Top 25)_  
-  - Built a hands-free, voice-controlled news assistant for UPSC aspirants using Streamlit and Gemini API.
-  - Designed real-time interruption handling for contextual question answering during live audio news playback.
-
-- **Coding Lab Management System** _(Academic Coding Platform)_  
-  - Developed a role-based coding lab platform with integrated code execution and submission.
-  - Implemented AI-based evaluation with intelligent recommendations for code quality and performance.
-  - Enabled assignment management, instructor reviewing, scoring, and automated feedback.
-
-- **AgroHunt** _(Agricultural decision support system)_  
-  - Developed a platform for crop planning and land suitability analysis.
-  - Integrated satellite indices (NDVI and related parameters) with soil and climate data for assessment.
-  - Implemented scoring for crop plausibility and field monitoring.
-
-## 🛠 Skills
+<!-- Skills Section -->
+### 🛠️ Skills & Tech Stack
 
 - **Languages:** Python, Java, C, C++
 - **Web:** HTML, CSS, JavaScript, Django, React
 - **Frameworks/Tools:** Frappe, MySQL, Git
 - **AI/Data:** Machine Learning, Computer Vision, NLP, Data Structures, OOPS
 
-## 🎓 Certifications
+---
+
+<!-- Experience -->
+### 🏆 Experience
+
+- **Intern, Wrench Solutions (Apr–May 2024)**
+  - AI Construction Monitoring: Built ConstructVision using YOLOv5 for site image analysis & wall stage monitoring.
+- **Intern, Unos (Jun 2025–Jan 2026)**
+  - Hospital ERP: Developed modules for workflow management, automation (Frappe). Supported AI-driven healthcare efficiency.
+
+---
+
+<!-- Projects Section -->
+### 🚀 Projects
+
+- **EchoNews** ([HackGen AI – Top 25])  
+  _Voice-controlled AI news app for UPSC aspirants (Streamlit + Gemini API)_  
+- **Coding Lab Management System**  
+  _Academic Platform with AI-based code evaluation, role-based access, and automated feedback_
+- **AgroHunt**  
+  _Agricultural decision support using satellite indices, soil/climate data, and field monitoring_
+
+---
+
+<!-- Education -->
+### 🎓 Education
+
+- **BTech Computer Science**, SOE, CUSAT (Present)
+- **12th**, GHSS Kadayiruppu (2022)
+- **10th**, Cooperative Public School, Valakom (2020)
+
+---
+
+<!-- Certifications -->
+### 📜 Certifications
 
 - Foundations of Cybersecurity (Google)
 - Python for Machine Learning (IBM)
-- Introduction to Responsible AI (Google Cloud Skills Boost)
+- Responsible AI (Google Cloud Skills Boost)
 
-## 🤝 Activities
+---
 
-- TinkerHub Kochi, GDSC Member, IGBC Club, Talrop Squad
+<!-- GitHub Stats & Fun Fact -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aiswaryabinu&show_icons=true&theme=radical" alt="Aiswaryabinu's stats"/>
+</p>
+
+### ✨ Fun Fact
+
+- I enjoy blogging, music, and solving puzzles.
 
 ---
 
 Thank you for visiting my profile!  
 Feel free to connect or reach out via [email](mailto:aiswaryabinush@gmail.com) or visit my [portfolio website](https://ayshwarya.vercel.app/).
-## Hi there 👋
-
-<!--
-**Aiswaryabinu/Aiswaryabinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
